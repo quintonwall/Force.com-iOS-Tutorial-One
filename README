@@ -1,0 +1,8 @@
+Force.com for iOS tutorial 1
+
+Author: qwall@salesforce.com
+
+This sample app covers a very basic app for the iphone which 
+authenticates againsts Force.com using OAuth and then displays a 
+list of contacts in a TableView
+
